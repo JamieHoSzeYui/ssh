@@ -15,4 +15,4 @@ steps:
       - git config --global user.email "me@gmail.com"
       - git config --global color.ui false
       - mkdir kernel && cd kernel
-      - bash build.sh
+      - bash complex.sh lancelot-oc
